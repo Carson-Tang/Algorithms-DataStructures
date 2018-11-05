@@ -5,7 +5,7 @@ using namespace std;
 #define MAXN 100001
 #define MOD 1000000007
 typedef long long ll;
-int N,Q,l,r,x,A[MAXN];
+int N,Q,l,r,x,cmd,A[MAXN];
 ll tree[3*MAXN], lazy[3*MAXN];
 void build(int node, int s, int e){
     if(s==e){
