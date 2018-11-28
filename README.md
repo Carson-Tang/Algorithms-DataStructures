@@ -3,8 +3,7 @@ Code for Graph Theory/Data Structures in C++
 
 TODO:
 kruskal, 
-dij, 
-spfa, 
+dij,  
 toposort, 
 coordcomp, 
 bst, 
