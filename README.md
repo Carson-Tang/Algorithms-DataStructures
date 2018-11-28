@@ -4,4 +4,11 @@ Code for Graph Theory/Data Structures in C++
 TODO:
 toposort, 
 bst, 
-trie
+trie,
+treap,
+lca,
+hld,
+psa/diff - 1d/2d,
+sparse table,
+bitmask,
+linesweep,
