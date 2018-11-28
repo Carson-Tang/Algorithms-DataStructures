@@ -5,6 +5,5 @@ TODO:
 kruskal, 
 dij,  
 toposort, 
-coordcomp, 
 bst, 
 trie
