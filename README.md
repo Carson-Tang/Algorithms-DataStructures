@@ -7,5 +7,4 @@ dij,
 toposort, 
 coordcomp, 
 bst, 
-trie, 
-dfs
+trie
