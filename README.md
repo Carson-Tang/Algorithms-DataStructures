@@ -10,3 +10,6 @@ hld,
 diff 2d,
 bitmask,
 linesweep,
+
+
+I like coding Segment Trees and I hope one day I can say the same about Balanced Binary Search Trees
