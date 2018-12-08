@@ -11,7 +11,7 @@ int N,Q,d[MAXN][MAXN],v,x1,x2,y1,y2;
 int main(){
     cin.sync_with_stdio(0);
     cin.tie(0);
-    cin>>N>>Q;
+    cin>>N;
     for(int i = 0; i < N; i++){
         cin>>x1>>y1>>x2>>y2>>v;
         d[x1][y1]+=v;
