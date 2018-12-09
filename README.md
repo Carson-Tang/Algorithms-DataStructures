@@ -7,7 +7,7 @@ trie,
 treap,
 lca,
 hld,
-diff 2d,
+centroid decomp,
 bitmask,
 linesweep,
 
