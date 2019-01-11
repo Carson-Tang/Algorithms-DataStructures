@@ -2,6 +2,7 @@
 Code for Graph Theory/Data Structures in C++
 
 TODO:
+sqrtdecomp,
 bst, 
 trie,
 treap,
