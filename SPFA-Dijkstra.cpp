@@ -8,7 +8,7 @@ typedef long long ll;
 int N,M,a,b,c,start;
 struct edge {
     int w,dest;
-    bool operator>(edge comp){
+    bool operator<(const edge& comp)const{
         return w>comp.w;
     }
 };
