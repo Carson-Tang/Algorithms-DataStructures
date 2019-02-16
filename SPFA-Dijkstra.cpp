@@ -30,7 +30,7 @@ int main(){
     pq.push({start,0});
     while(!pq.empty()){
         edge u = pq.top(); pq.pop();
-        for(edge v : adj[u]){
+        for(edge v : adj[u.dest]){
             if(dis[v.dest]>dis[u.dest] + v.w){
                 dis[v.dest]=dis[u.dest] + v.w;
                 pq.push(v.dest,dis[v.dest]);
