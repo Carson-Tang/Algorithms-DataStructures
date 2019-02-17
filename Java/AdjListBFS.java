@@ -10,6 +10,7 @@ public class Main {
         int n = Integer.parseInt(br.readLine()); // nodes
         int m = Integer.parseInt(br.readLine()); // edges
         dis = new int[n]; vis = new boolean[n]; // assume nodes are 0 indexed
+        adj = new LinkedList[n];
         for(int i = 0; i < n; i++) adj[i]=new LinkedList<>();
         for(int i = 0; i < m; i++){
             String [] tok = br.readLine().split(" ");
