@@ -1,7 +1,7 @@
 # Algorithms-DataStructures
-Code for Graph Theory/Data Structures in C++
+Graph Theory/Data Structures Templates in C++
 
-TODO:
+Things to learn:
 lca,
 hld,
 centroid decomp,
